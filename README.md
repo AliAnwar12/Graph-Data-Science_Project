@@ -1,4 +1,4 @@
-# Milestone 3 — Graph Machine Learning Pipeline
+# Graph Machine Learning Pipeline
 
 **CS343 Graph Data Science — Spring 2026**
 **Team:** Muhammad Ammar Maqdoom, Ali Anwar
